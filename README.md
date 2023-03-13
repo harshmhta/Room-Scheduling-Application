@@ -39,9 +39,6 @@ The database tables should not contain redundant data, i.e. relevant data should
 ## GUI Guidelines
 The user should be required to enter only unknown data. Drop down lists of known data such as Faculty member names, Room names, or Days should be displayed for the user to select. Combo Boxes should be used for the drop down lists on the form. When information is requested to be displayed e.g. for a Status command, all of the requested information must be displayed. When a command is performed, the results of that command should be displayed to the user on the same display without the user needing to check Status to see what was done.
 
-## Credits
-This project was developed by Harsh Mehta.
-
 ## Academic Integrity Statement
 
 Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
